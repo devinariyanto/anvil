@@ -1,0 +1,1 @@
+{"description":"A GitHub-compatible git forge: REST v3, GraphQL v4, MCP tools and git smart HTTP, in Node 22 stdlib only.","license":"MIT","main":"main.ts","name":"anvil","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"0.1.0"}
